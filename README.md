@@ -12,7 +12,7 @@ A free, offline app to track your vehicles: gas fills and MPG, maintenance and m
 
 To **update**, download and install the newest version the same way. Your data is kept.
 
-Current version: **2.4.1** (11.05.2026). [All versions](https://github.com/hoffjoe-gif/VehicleTracker-Download/releases)
+Current version: **2.7.2** (11.06.2026). [All versions](https://github.com/hoffjoe-gif/VehicleTracker-Download/releases)
 
 ## Getting started
 
@@ -27,4 +27,4 @@ In the app: tap **Diagnostic log → Report a problem…**, describe what happen
 
 ## Privacy
 
-The app has no account, no ads, no analytics, and does not send your data anywhere. It only shares a file or a report when you tap Share yourself.
+The app has no account, no ads, no analytics, and does not send your data anywhere. It only shares a file or a report when you tap Share yourself. The one online feature is optional: **Look up details online** in Vehicle Info sends only the VIN to the U.S. NHTSA's free VIN decoder, and only when you tap it.
